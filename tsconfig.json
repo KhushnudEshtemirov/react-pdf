@@ -8,6 +8,7 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "es2015",
-    "verbatimModuleSyntax": true
+    "verbatimModuleSyntax": true,
+    "baseUrl": "./"
   }
 }
