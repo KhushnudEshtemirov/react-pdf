@@ -9,6 +9,5 @@
     "strict": true,
     "target": "es2015",
     "verbatimModuleSyntax": true,
-    "baseUrl": "./"
   }
 }
